@@ -1,4 +1,8 @@
 Hi.
 Adding commit to the local.
 local and remote has same commit.
+<<<<<<< HEAD
 check for revert op.
+=======
+Adding lines to do more  git actions.
+>>>>>>> 41c90d6c60f241a0a914ba8347a408eb404b065c
