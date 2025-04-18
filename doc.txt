@@ -6,4 +6,5 @@ Adding lines to do more  git actions.
 waiting for reverting process.
 Reverted.
 Resets.
+rebase.
 rebasee
