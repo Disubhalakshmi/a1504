@@ -1,2 +1,3 @@
 Hi.
 Adding commit to the local.
+local and remote has same commit.
