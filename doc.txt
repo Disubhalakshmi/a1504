@@ -1,18 +1,10 @@
 Hi.
 Adding commit to the local.
 local and remote has same commit.
-<<<<<<< HEAD
-<<<<<<< HEAD
 check for revert op.
-=======
 Adding lines to do more  git actions.
->>>>>>> 41c90d6c60f241a0a914ba8347a408eb404b065c
-=======
->>>>>>> parent of 41c90d6 ( unwanted commit)
-<<<<<<< HEAD
-=======
 waiting for reverting process.
 Reverted.
 Resets.
->>>>>>> 3891be6fe1c6311998af9af28a5dafa527e8e4e8
 rebase.
+rebasee
