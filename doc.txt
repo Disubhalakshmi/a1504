@@ -9,3 +9,4 @@ Adding lines to do more  git actions.
 >>>>>>> 41c90d6c60f241a0a914ba8347a408eb404b065c
 =======
 >>>>>>> parent of 41c90d6 ( unwanted commit)
+waiting for reverting process.
